@@ -1,8 +1,9 @@
-<h1>Hi, I'm awsie!</h1>
+<h1 align="center">Hi, I'm awsie!</h1>
 
-<div style="text-align: center;">
-<img src="https://media1.tenor.com/m/9gGzM_Tl-UYAAAAC/renge-anime.gif"> 
+<div align="center">
+<img src="https://media1.tenor.com/m/9gGzM_Tl-UYAAAAC/renge-anime.gif" width="850"> 
 </div>
+
 
 
 <h2>About Me</h2>

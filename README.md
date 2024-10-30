@@ -27,7 +27,8 @@
     <li>Working on projects that blend technical skill with creativity.</li>  
 </ul>
 
-<p>Thanks for stopping by. Have a good day!</p>
+<p align="center">Thanks for stopping by. Have a good day!</p>
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=awsievanne&theme=material-palenight&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800&card_height=160&hide_total_contributions=true" alt="GitHub Streak" /></a>
+<p align="center">
+<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=awsievanne&theme=material-palenight&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800&card_height=160&hide_total_contributions=true" alt="GitHub Streak" /></a>
+</p>

@@ -1,7 +1,10 @@
 <h1>Hi, I'm awsie!</h1>
-<div class="gif-container">
-    <img src="https://media.tenor.com/images/75c42c2493ca3db01a6d37276e79af4a/tenor.gif" alt="Renge GIF" width="300">
+
+<div style="text-align: center;">
+<img src="https://media1.tenor.com/m/9gGzM_Tl-UYAAAAC/renge-anime.gif"> 
 </div>
+
+
 <h2>About Me</h2>
 <ul>
     <li>I'm 22 years old, based in Moscow.</li>

@@ -15,8 +15,8 @@
 
 <h2>My Background</h2>
 <ul>
-    <li>I have a lot of experience in game development, where I learned the foundations of programming and design.</li>
-    <li>Though I haven’t coded in years, my game development background keeps me grounded as I explore new areas like bot development.</li>
+    <li>I have experience in game development, where I learned the foundations of programming and design.</li>
+    <li>Though I haven’t coded in years, my game development background keeps me grounded as I explore new areas like app and bot development.</li>
     <li>Right now, I’m enjoying the process of reconnecting with coding as a hobby, taking things step-by-step.</li>
 </ul>
 

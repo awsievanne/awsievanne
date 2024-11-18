@@ -8,7 +8,6 @@
 
 <h2>About Me</h2>
 <ul>
-    <li>I'm 22 years old, based in Moscow.</li>
     <li>A very shy but curious person who enjoys learning and experimenting quietly.</li>
     <li>After a break from coding, I’m back and excited to dive into new projects.</li>
 </ul>
